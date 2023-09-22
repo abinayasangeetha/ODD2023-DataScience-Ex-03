@@ -21,8 +21,8 @@ Mention the datatypes from the data.
 ## Step5
 Count the values from the data.
 ```
-Developed By : Shree Ram R
-reference number: 212222040154
+Developed By : ABINAYA S
+reference number: 212222230002
 ```
 ## Superstore.csv
 ```
@@ -63,28 +63,30 @@ df.kurtosis()
 # OUTPUT
 ## Superstore.csv
 
-![Screenshot 2023-03-27 203824](https://user-images.githubusercontent.com/118680410/228207821-4c5919f1-2ef7-4c93-89fe-10e0d11c530a.png)
-![Screenshot 2023-03-28 155312](https://user-images.githubusercontent.com/118680410/228207826-a8c4eede-6fc5-4fbf-b7ec-23f1b49917b7.png)
-![Screenshot 2023-03-28 155321](https://user-images.githubusercontent.com/118680410/228207836-624685a0-434e-4d37-9204-ed2351b96b07.png)
-![Screenshot 2023-03-28 155331](https://user-images.githubusercontent.com/118680410/228207841-16c5791c-9fa3-4e75-9a82-3688e6cd80c8.png)
-![Screenshot 2023-03-28 155339](https://user-images.githubusercontent.com/118680410/228207844-26a4e0ee-4b72-4ae7-86aa-b3498290fc69.png)
-![Screenshot 2023-03-28 155346](https://user-images.githubusercontent.com/118680410/228207850-78aa3991-ecbc-407d-9fff-a663ffa780f6.png)
-![Screenshot 2023-03-28 155353](https://user-images.githubusercontent.com/118680410/228207853-f70cc0bb-b67a-4e4f-a770-b4e23ce064ab.png)
-![Screenshot 2023-03-28 155400](https://user-images.githubusercontent.com/118680410/228207859-9db566f0-268b-4e82-a056-1b7466ddead5.png)
-![Screenshot 2023-03-28 155412](https://user-images.githubusercontent.com/118680410/228207862-c616fd40-ea50-4ccc-82ff-6ae1c394be55.png)
+![O1](https://github.com/abinayasangeetha/ODD2023-DataScience-Ex-03/assets/119393675/537d1d44-4dd6-47d3-aa9b-eaf606f8b1c3)
+![O2](https://github.com/abinayasangeetha/ODD2023-DataScience-Ex-03/assets/119393675/0d8ef78b-820b-4783-8e34-4bcd8c45203b)
+![O3](https://github.com/abinayasangeetha/ODD2023-DataScience-Ex-03/assets/119393675/4aaa14c8-d7e6-42de-b057-5aa40fdfeaa3)
+![O4](https://github.com/abinayasangeetha/ODD2023-DataScience-Ex-03/assets/119393675/19f878af-4a76-45a6-9aa6-6749832725c0)
+![O5](https://github.com/abinayasangeetha/ODD2023-DataScience-Ex-03/assets/119393675/87fe1231-0142-4465-a675-bd57bcf82dfa)
+![O6](https://github.com/abinayasangeetha/ODD2023-DataScience-Ex-03/assets/119393675/da570c24-3faa-4abc-adb3-56ee3ae4c935)
+![O7](https://github.com/abinayasangeetha/ODD2023-DataScience-Ex-03/assets/119393675/7935dcba-a8d1-4eb6-86ed-2c39946a3e71)
+![O8](https://github.com/abinayasangeetha/ODD2023-DataScience-Ex-03/assets/119393675/a3f30164-4e9d-4b64-a7b4-1cd19dc93c69)
+![O9](https://github.com/abinayasangeetha/ODD2023-DataScience-Ex-03/assets/119393675/0b19401c-bb57-49d7-8c33-a020a1a67c63)
 
 ## Diabetes.csv
+![D1](https://github.com/abinayasangeetha/ODD2023-DataScience-Ex-03/assets/119393675/46f198fd-022d-4bc7-b5ec-3be4b7020fd4)
+![D2](https://github.com/abinayasangeetha/ODD2023-DataScience-Ex-03/assets/119393675/279557d1-0eb8-419e-b58d-42fbc8b74205)
+![D3](https://github.com/abinayasangeetha/ODD2023-DataScience-Ex-03/assets/119393675/2fe12adf-cfee-4451-8eb1-fa964db26bee)
+![D4](https://github.com/abinayasangeetha/ODD2023-DataScience-Ex-03/assets/119393675/6f5f2654-89da-413b-b198-65770fe00d74)
+![D5](https://github.com/abinayasangeetha/ODD2023-DataScience-Ex-03/assets/119393675/409a6144-9c12-451a-8e53-9078650f3a0d)
+![D6](https://github.com/abinayasangeetha/ODD2023-DataScience-Ex-03/assets/119393675/ce46fb8d-d783-448c-883b-daa6f774e1de)
+![D7](https://github.com/abinayasangeetha/ODD2023-DataScience-Ex-03/assets/119393675/0d138519-ff86-4b7c-8052-7647125f26cd)
+![D8](https://github.com/abinayasangeetha/ODD2023-DataScience-Ex-03/assets/119393675/09272c78-409e-47a2-9c9e-2352f02b5916)
+![D9](https://github.com/abinayasangeetha/ODD2023-DataScience-Ex-03/assets/119393675/f222d56a-65cb-4185-b74a-9e094738b967)
+![D10](https://github.com/abinayasangeetha/ODD2023-DataScience-Ex-03/assets/119393675/5b9a8570-9bdd-4823-ac04-fb69f11d5e26)
+![D11](https://github.com/abinayasangeetha/ODD2023-DataScience-Ex-03/assets/119393675/2aea7c58-682f-4b2d-86ce-9a298de7a83d)
 
-![Screenshot 2023-03-30 211938](https://user-images.githubusercontent.com/118680410/228897098-9b03b1fb-2e9e-4a5c-8629-f1321503f78c.png)
-![Screenshot 2023-03-30 211953](https://user-images.githubusercontent.com/118680410/228897290-c32a6b68-99c7-464c-adf1-c943222bab52.png)
 
-![Screenshot 2023-03-30 212008](https://user-images.githubusercontent.com/118680410/228897321-3afa4c14-bac9-460c-86eb-4b569f1140fb.png)
-![Screenshot 2023-03-30 212024](https://user-images.githubusercontent.com/118680410/228897343-9b533df9-5808-41ba-b926-a6c368a560b7.png)
-![Screenshot 2023-03-30 212037](https://user-images.githubusercontent.com/118680410/228897356-1d8ad723-96f1-4ca2-9abb-dabb003bc0a3.png)
-![Screenshot 2023-03-30 212047](https://user-images.githubusercontent.com/118680410/228897410-eb383e4d-6785-45d9-8ab3-3721edde23bd.png)
-![Screenshot 2023-03-30 212101](https://user-images.githubusercontent.com/118680410/228897476-8d958b34-2f05-44cf-9eb7-14cec6e69b3a.png)
-![Screenshot 2023-03-30 212111](https://user-images.githubusercontent.com/118680410/228897549-056925e3-9be1-4e64-8b9d-a6063c5da099.png)
-![Screenshot 2023-03-30 212127](https://user-images.githubusercontent.com/118680410/228897590-b123a0d1-93de-457a-8bf7-0e92f1f24cdd.png)
-![Screenshot 2023-03-30 212137](https://user-images.githubusercontent.com/118680410/228897642-560def56-cb8e-4359-bad2-1e2f03d159ed.png)
+
 # RESULT
 Hence the univariate analysis is verified
