@@ -1,11 +1,11 @@
 # Ex03-Univariate-Analysis
-## Aim
+## Aim:
 To read the given data and perform the univariate analysis with different types of plots.
 
-## Explanation
+## Explanation:
 Univariate analysis is basically the simplest form to analyze data. Uni means one and this means that the data has only one kind of variable. The major reason for univariate analysis is to use the data to describe. The analysis will take data, summarise it, and then find some pattern in the data.
 
-## Algorithm
+## Algorithm:
 ## Step1
 Read the given data.
 
@@ -20,10 +20,10 @@ Mention the datatypes from the data.
 
 ## Step5
 Count the values from the data.
-#  Program
+#  Program:
 ```
 Developed By : ABINAYA S
-reference number: 212222230002
+Register number: 212222230002
 ```
 ## Superstore.csv
 ```
@@ -61,7 +61,7 @@ sns.histplot(x="Glucose",data=df)
 df.skew()
 df.kurtosis()
 ```
-# OUTPUT
+# Output:
 ## Superstore.csv
 
 ![O1](https://github.com/abinayasangeetha/ODD2023-DataScience-Ex-03/assets/119393675/537d1d44-4dd6-47d3-aa9b-eaf606f8b1c3)
@@ -89,5 +89,5 @@ df.kurtosis()
 
 
 
-# RESULT
+# RESULT:
 Hence the univariate analysis is verified
