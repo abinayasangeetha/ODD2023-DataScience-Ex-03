@@ -20,7 +20,7 @@ Mention the datatypes from the data.
 
 ## Step5
 Count the values from the data.
-# Program
+#  PROGRAM
 ```
 Developed By : ABINAYA S
 reference number: 212222230002
