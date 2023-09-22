@@ -63,8 +63,8 @@ df.kurtosis()
 ```
 # Output:
 ## Superstore.csv
-
-![O1](https://github.com/abinayasangeetha/ODD2023-DataScience-Ex-03/assets/119393675/537d1d44-4dd6-47d3-aa9b-eaf606f8b1c3)
+![O1 1](https://github.com/abinayasangeetha/ODD2023-DataScience-Ex-03/assets/119393675/38a3ac73-041c-404e-93c6-c180fa91f1d9)
+![O1 2](https://github.com/abinayasangeetha/ODD2023-DataScience-Ex-03/assets/119393675/35e2db09-2168-4867-adb7-d7c4c1e5cae2)
 ![O2](https://github.com/abinayasangeetha/ODD2023-DataScience-Ex-03/assets/119393675/0d8ef78b-820b-4783-8e34-4bcd8c45203b)
 ![O3](https://github.com/abinayasangeetha/ODD2023-DataScience-Ex-03/assets/119393675/4aaa14c8-d7e6-42de-b057-5aa40fdfeaa3)
 ![O4](https://github.com/abinayasangeetha/ODD2023-DataScience-Ex-03/assets/119393675/19f878af-4a76-45a6-9aa6-6749832725c0)
