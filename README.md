@@ -110,7 +110,7 @@ sns.boxplot(x='Experience_Years',data=df)
 ## employeesal.csv
 ![1d](https://github.com/abinayasangeetha/ODD2023-DataScience-Ex-03/assets/119393675/fab0095c-6bf5-4ff5-9d88-131036be16d3)
 ![1 1d](https://github.com/abinayasangeetha/ODD2023-DataScience-Ex-03/assets/119393675/ef6089a7-e47c-49cf-b19a-99e9586c10b4)
-![2d](https://github.com/abinayasangeetha/ODD20![3d](https://github.com/abinayasangeetha/ODD2023-DataScience-Ex-03/assets/119393675/8ffbae20-21ce-425b-b39b-fddac71d7a4b)
+![2d](https://github.com/abinayasangeetha/ODD2023-DataScience-Ex-03/assets/119393675/9b90eb97-dc80-413b-af91-2a66f503f406)
 ![3d](https://github.com/abinayasangeetha/ODD2023-DataScience-Ex-03/assets/119393675/4c275d1b-a8cf-46b0-b6b9-cba0767b78b1)
 ![4d](https://github.com/abinayasangeetha/ODD2023-DataScience-Ex-03/assets/119393675/9b29f48c-ea55-4b38-9883-163477bb2136)
 ![5d](https://github.com/abinayasangeetha/ODD2023-DataScience-Ex-03/assets/119393675/8bc8a42a-06f3-477b-a230-4d65b54bb340)
