@@ -61,6 +61,27 @@ sns.histplot(x="Glucose",data=df)
 df.skew()
 df.kurtosis()
 ```
+## employeesal.csv
+```
+import pandas as pd
+df=pd.read_csv("/content/employeesal.csv")
+df
+df.info()
+df.dtypes
+df['Salary'].value_counts()
+df.describe()
+import seaborn as sns
+sns.boxplot(x='Experience_Years',data=df)
+sns.countplot(x="Experience_Years",data=df)
+sns.distplot(df['Experience_Years'])
+sns.histplot(x="Experience_Years",data=df)
+df.skew()
+sns.histplot(x='Salary',data=df)
+sns.distplot(df['ID'])
+df.kurtosis()
+sns.boxplot(x='Salary',data=df)
+sns.boxplot(x='Experience_Years',data=df)
+```
 # Output:
 ## Superstore.csv
 ![O1 1](https://github.com/abinayasangeetha/ODD2023-DataScience-Ex-03/assets/119393675/38a3ac73-041c-404e-93c6-c180fa91f1d9)
@@ -86,6 +107,20 @@ df.kurtosis()
 ![D9](https://github.com/abinayasangeetha/ODD2023-DataScience-Ex-03/assets/119393675/f222d56a-65cb-4185-b74a-9e094738b967)
 ![D10](https://github.com/abinayasangeetha/ODD2023-DataScience-Ex-03/assets/119393675/5b9a8570-9bdd-4823-ac04-fb69f11d5e26)
 ![D11](https://github.com/abinayasangeetha/ODD2023-DataScience-Ex-03/assets/119393675/2aea7c58-682f-4b2d-86ce-9a298de7a83d)
+## employeesal.csv
+![1d](https://github.com/abinayasangeetha/ODD2023-DataScience-Ex-03/assets/119393675/fab0095c-6bf5-4ff5-9d88-131036be16d3)
+![1 1d](https://github.com/abinayasangeetha/ODD2023-DataScience-Ex-03/assets/119393675/ef6089a7-e47c-49cf-b19a-99e9586c10b4)
+![2d](https://github.com/abinayasangeetha/ODD20![3d](https://github.com/abinayasangeetha/ODD2023-DataScience-Ex-03/assets/119393675/8ffbae20-21ce-425b-b39b-fddac71d7a4b)
+![3d](https://github.com/abinayasangeetha/ODD2023-DataScience-Ex-03/assets/119393675/4c275d1b-a8cf-46b0-b6b9-cba0767b78b1)
+![4d](https://github.com/abinayasangeetha/ODD2023-DataScience-Ex-03/assets/119393675/9b29f48c-ea55-4b38-9883-163477bb2136)
+![5d](https://github.com/abinayasangeetha/ODD2023-DataScience-Ex-03/assets/119393675/8bc8a42a-06f3-477b-a230-4d65b54bb340)
+![6d](https://github.com/abinayasangeetha/ODD2023-DataScience-Ex-03/assets/119393675/7d9d6889-c78f-4252-b1cf-4e20ae57005b)
+![7d](https://github.com/abinayasangeetha/ODD2023-DataScience-Ex-03/assets/119393675/338d08d7-9474-4a81-885c-875915a1a659)
+![8d](https://github.com/abinayasangeetha/ODD2023-DataScience-Ex-03/assets/119393675/6d71b16c-3fe4-494f-a043-5d17141ac098)
+![9d](https://github.com/abinayasangeetha/ODD2023-DataScience-Ex-03/assets/119393675/a0e539a4-cca0-4c74-b7af-365a8a4005cb)
+![10d](https://github.com/abinayasangeetha/ODD2023-DataScience-Ex-03/assets/119393675/f2efd88f-7fc3-422b-a0c2-1ab7fd33cf24)
+![11d](https://github.com/abinayasangeetha/ODD2023-DataScience-Ex-03/assets/119393675/ca4c68af-5091-46b4-b015-9f491e6ec0fd)
+![12d](https://github.com/abinayasangeetha/ODD2023-DataScience-Ex-03/assets/119393675/45d610c5-19e3-44d4-be20-e571325d7042)
 
 
 
